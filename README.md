@@ -49,10 +49,8 @@
 
 <summary> Dynamic Web Applications </summary>
     <details>
-        <summary>ToDo Web Application</summary>
-        <h3>Project Title: <img width="250" height="250" src="https://media.tenor.com/images/f33074eacd09458f16701c94e87b8034/tenor.gif"></h3>
-        <h3>Project description:</h3><p> A todo responsive web application where the user can add a new todo, can store it in local storage, mark it as completed, 
-         delete it.</p>
+        <summary>To-Do List</summary>
+        <h3>Project description:</h3><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
         <h3>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git"> Click ME !</a</h3>
         <h3>Live Demo : <a href="https://luckybhure-todolist.netlify.app"> Click ME !</a></h3>
     </details>
