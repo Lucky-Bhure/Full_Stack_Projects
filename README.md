@@ -9,7 +9,7 @@
 
 
 <h2 align="center">Languages and Tools</h2> </br>
-<div width="100%">
+<div width="100%" display="flex" justify-content="flex">
   <div width="50%" display="flex" align="left" justify-content="column">
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
