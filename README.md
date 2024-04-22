@@ -46,6 +46,8 @@
 <hr>
 </br></br></br>
 <h2> Dynamic Web Applications </h2>
+<details>
+    
 <summary>Dynamic Web Applications</summary>
 
 <details>
@@ -55,6 +57,7 @@
     <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app"> Click ME !</a></h4>
 </details> 
 
+</details>
 
 <hr>
 </br></br></br>
