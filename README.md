@@ -33,8 +33,8 @@
 </br></br></br>
 <h2>Have A look at some of my projects (expand each section to view my projects)</h2>
 
-<h2>ReactJS Projects </h2>
-<!--     <details>
+<!--<h2>ReactJS Projects </h2>
+     <details>
     <summary> Emoji Game </summary>
     <h3 margin-left="40px">Project Title: Emoji Game <img width="250" height="140" src="https://i.pinimg.com/originals/db/05/a0/db05a03b2adcfedd15c8b91e48cb99a4.gif"></h3>
     <h3>Project description:</h3><p>A basic memory game developed using react concepts. Player needs to remember emoji clicked each time to win the game.(i.e 12/12 is      win). Since its a dynamic application emojis gets shuffled immediately after clicking a emoji. Refer 
@@ -46,6 +46,16 @@
 <hr>
 </br></br></br>
 <h2> Dynamic Web Applications </h2>
+
+<summary> Dynamic Web Applications </summary>
+    <details>
+        <summary>ToDo Web Application</summary>
+        <h3>Project Title: <img width="250" height="250" src="https://media.tenor.com/images/f33074eacd09458f16701c94e87b8034/tenor.gif"></h3>
+        <h3>Project description:</h3><p> A todo responsive web application where the user can add a new todo, can store it in local storage, mark it as completed, 
+         delete it.</p>
+        <h3>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git"> Click ME !</a</h3>
+        <h3>Live Demo : <a href="https://luckybhure-todolist.netlify.app"> Click ME !</a></h3>
+    </details>
 
 <hr>
 </br></br></br>
