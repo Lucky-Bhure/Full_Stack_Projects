@@ -6,19 +6,35 @@
 - 🔭 I’m currently working on **ReactJS**
 - 🤝 I’m looking for help with **MERN Stack**
 
-
+<style>
+  .main_div{
+    width:100vw;
+    heigth: 600px;
+    display:felx;
+  }
+  .div1{
+    width:50vw;
+    heigth: 500px;
+    display:flex;
+    justify-content:column;
+  }
+  .div2{
+    width:50vw;
+    heigth: 500px
+  }
+</style>
 
 <h2 align="center">Languages and Tools</h2> </br>
-<div width="100%" display="flex" justify-content="flex">
-  <div width="50%" display="flex" align="left" justify-content="column">
+<div class="div_main">
+  <div class="div1">
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
 </div>
   
-  <div width="50%" align="right">
-    <img width="90%" height="100%" alt="coding" align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+  <div class="div2">
+    <img alt="coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
   </div>
 </div>
  
