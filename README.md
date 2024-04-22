@@ -68,13 +68,13 @@
     <h4>Live Demo : <a href="https://luckybhure-trafficlight.netlify.app"> Click ME !</a></h4>
 </details> 
 
-<!--Project3 : -->
+<!--Project3 : Tip Calculator-->
 <details>
-    <summary>To-Do List</summary>
-    <h4>Project Title: To-Do List</h4>
-    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
-    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
-    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+    <summary>Tip Calculator</summary>
+    <h4>Project Title: Tip Calculator</h4
+    <h4>Project description:</h4><p>This is web application design to calculate Tip provided by calculation of Tip Percentage and Billing Amount for Total Bill.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Tip_Calculator.git" target="_blank"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-tipcalculator.netlify.app" target="_blank"> Click ME !</a></h4>
 </details> 
 
 <!--Project4 : -->
