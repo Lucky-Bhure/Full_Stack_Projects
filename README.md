@@ -49,12 +49,12 @@
 
 <summary>Dynamic Web Applications</summary>
 
-    <details>
-        <summary>To-Do List</summary>
-        <h3>Project description:</h3><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
-        <h3>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git"> Click ME !</a</h3>
-        <h3>Live Demo : <a href="https://luckybhure-todolist.netlify.app"> Click ME !</a></h3>
-    </details>
+<details>
+    <summary>To-Do List</summary>
+    <h3>Project description:</h3><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
+    <h3>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git"> Click ME !</a</h3>
+    <h3>Live Demo : <a href="https://luckybhure-todolist.netlify.app"> Click ME !</a></h3>
+</details>    
 
 <hr>
 </br></br></br>
