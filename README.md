@@ -1,6 +1,6 @@
 <p align="center"><img width="100" height="100" src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif"></p>
 <h1 align="center">Hi 👋, I'm Lucky Bhure </h1>
-<h3 align="center"> A passionate full stack developer </h3>
+<h3 align="center"> A Passionate Full Stack Developer </h3>
 
 - 🌱 I’m currently learning **MERN Specializarion** </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> 
