@@ -73,35 +73,35 @@
     <summary>Tip Calculator</summary>
     <h4>Project Title: Tip Calculator</h4
     <h4>Project description:</h4><p>This is web application design to calculate Tip provided by calculation of Tip Percentage and Billing Amount for Total Bill.</p>
-    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Tip_Calculator.git" target="_blank"> Click ME !</a</h4>
-    <h4>Live Demo : <a href="https://luckybhure-tipcalculator.netlify.app" target="_blank"> Click ME !</a></h4>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Tip_Calculator.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-tipcalculator.netlify.app"> Click ME !</a></h4>
 </details> 
 
-<!--Project4 : -->
+<!--Project4 : Sizing an Image-->
 <details>
-    <summary>To-Do List</summary>
-    <h4>Project Title: To-Do List</h4>
-    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
-    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
-    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+    <summary>Sizing an Image</summary>
+    <h4>Project Title: Sizing an Image</h4>
+    <h4>Project description:</h4><p>This is a web application design for increase and decrease image size present in web application.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Sizing_an_Image.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-sizinganimage.netlify.app"> Click ME !</a></h4>
 </details> 
 
-<!--Project5 : -->
+<!--Project5 : Moment of Peace-->
 <details>
-    <summary>To-Do List</summary>
-    <h4>Project Title: To-Do List</h4>
-    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
-    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
-    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+    <summary>Moment of Peace</summary>
+    <h4>Project Title: Moment of Peace</h4>
+    <h4>Project description:</h4><p>A responseive dynamic web application developed using the concepts of setTimeOut and ClearTimeOut. User Can set a timer of 20 seconds, 30 seconds,40 seconds or 1 minuite. Have a moment of peace !!</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Moment_of_Peace.git" target="_blank"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-momentofpeace.netlify.app" target="_blank"> Click ME !</a></h4>
 </details> 
 
-<!--Project6 : -->
+<!--Project6 : Button Maker-->
 <details>
-    <summary>To-Do List</summary>
-    <h4>Project Title: To-Do List</h4>
-    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
-    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
-    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+    <summary>Button Maker</summary>
+    <h4>Project Title: Button Maker</h4>
+    <h4>Project description:</h4><p>This is a simple Button Making web application built using HTML, CSS, and JavaScript. Web application work by providing user input in required fields in Button Maker input box.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Button_Maker.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-buttonmaker.netlify.app"> Click ME !</a></h4>
 </details> 
 
 </details>
