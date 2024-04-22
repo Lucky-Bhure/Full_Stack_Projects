@@ -9,7 +9,7 @@
 
 
 <h2 align="center">Languages and Tools</h2> </br>
-<h4 align="justify" >
+<h4 align="center" >
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
@@ -28,3 +28,33 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
   </h4>
+
+<hr>
+</br></br></br>
+<h2>Have A look at some of my projects (expand each section to view my projects)</h2>
+
+<h2>ReactJS Projects </h2>
+<!--     <details>
+    <summary> Emoji Game </summary>
+    <h3 margin-left="40px">Project Title: Emoji Game <img width="250" height="140" src="https://i.pinimg.com/originals/db/05/a0/db05a03b2adcfedd15c8b91e48cb99a4.gif"></h3>
+    <h3>Project description:</h3><p>A basic memory game developed using react concepts. Player needs to remember emoji clicked each time to win the game.(i.e 12/12 is      win). Since its a dynamic application emojis gets shuffled immediately after clicking a emoji. Refer 
+    <a href="https://github.com/kasivivekkasivivek/emoji-game-react-15#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/emoji-game-react-15">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://emojigame1.netlify.app/">Click Me !</a></h3>
+  </details> -->
+
+<hr>
+</br></br></br>
+<h2> Dynamic Web Applications </h2>
+
+<hr>
+</br></br></br>
+<h2>NodeJS and ExpressJS</h2>
+
+<hr>
+</br></br></br>
+<h2>Responsive Web Aplications</h2>
+
+<hr>
+</br></br></br>
+<h2>Static Website</h2>
