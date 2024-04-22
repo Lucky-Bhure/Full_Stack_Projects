@@ -25,8 +25,8 @@
   <h4 align="center">
       <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
+  <a href="https://www.java.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
   </h4>
 
 <hr>
@@ -50,6 +50,7 @@
     
 <summary>Dynamic Web Applications</summary>
 
+<!--Project1 : To-Do List-->
 <details>
     <summary>To-Do List</summary>
     <h4>Project Title: To-Do List</h4>
@@ -58,6 +59,50 @@
     <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
 </details> 
 
+<!--Project2 : Traffic Light-->
+<details>
+    <summary>Traffic Light</summary>
+    <h4>Project Title: Traffic Light</h4>
+    <h4>Project description:</h4><p>This is a web application design for traffic single manipulation using user input on provided buttons.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Traffic_Light.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-trafficlight.netlify.app"> Click ME !</a></h4>
+</details> 
+
+<!--Project3 : -->
+<details>
+    <summary>To-Do List</summary>
+    <h4>Project Title: To-Do List</h4>
+    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+</details> 
+
+<!--Project4 : -->
+<details>
+    <summary>To-Do List</summary>
+    <h4>Project Title: To-Do List</h4>
+    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+</details> 
+
+<!--Project5 : -->
+<details>
+    <summary>To-Do List</summary>
+    <h4>Project Title: To-Do List</h4>
+    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+</details> 
+
+<!--Project6 : -->
+<details>
+    <summary>To-Do List</summary>
+    <h4>Project Title: To-Do List</h4>
+    <h4>Project description:</h4><p>This is a simple To Do List web application built using HTML, CSS, and JavaScript. It allows users to create tasks, mark them as completed, and delete them. Tasks are stored locally using browser's local storage.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/To-Do_List.git" target="_blank"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://luckybhure-todolist.netlify.app" target="_blank"> Click ME !</a></h4>
+</details> 
 
 </details>
 
