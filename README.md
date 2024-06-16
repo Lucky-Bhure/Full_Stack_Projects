@@ -43,7 +43,6 @@
     <h3>Live Demo :<a href="https://emojigame1.netlify.app/">Click Me !</a></h3>
   </details> -->
 
-<hr>
 </br></br></br>
 <h2> Dynamic Web Applications </h2>
 
@@ -102,7 +101,6 @@
 </details> 
 
 
-<hr>
 </br></br></br>
 <h2>NodeJS and ExpressJS</h2>
 
@@ -119,6 +117,5 @@
     <h4>Live Demo : <a href="https://luckybhure-moveit-bootstrap.netlify.app"> Click ME !</a></h4>
 </details> 
 
-<hr>
 </br></br></br>
 <h2>Static Website</h2>
