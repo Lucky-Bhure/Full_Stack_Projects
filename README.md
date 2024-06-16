@@ -48,8 +48,6 @@
 <h2> Dynamic Web Applications </h2>
 <details>
     
-<summary>Dynamic Web Applications</summary>
-
 <!--Project1 : To-Do List-->
 <details>
     <summary>To-Do List</summary>
