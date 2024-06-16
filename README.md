@@ -29,8 +29,6 @@
   <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
   </h4>
 
-<hr>
-</br></br></br>
 <h2>Have A look at some of my projects (expand each section to view my projects)</h2>
 
 <!--<h2>ReactJS Projects </h2>
@@ -43,7 +41,6 @@
     <h3>Live Demo :<a href="https://emojigame1.netlify.app/">Click Me !</a></h3>
   </details> -->
 
-</br></br></br>
 <h2> Dynamic Web Applications </h2>
 
 <!--Project1 : To-Do List-->
@@ -101,11 +98,9 @@
 </details> 
 
 
-</br></br></br>
 <h2>NodeJS and ExpressJS</h2>
 
-<hr>
-</br></br></br>
+
 <h2>Responsive Web Aplications</h2>
 
 <!--Project1 : MoveIt-Bootstrap-->
@@ -117,5 +112,4 @@
     <h4>Live Demo : <a href="https://luckybhure-moveit-bootstrap.netlify.app"> Click ME !</a></h4>
 </details> 
 
-</br></br></br>
 <h2>Static Website</h2>
