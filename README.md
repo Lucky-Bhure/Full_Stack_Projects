@@ -100,6 +100,13 @@
 
 <h2>NodeJS and ExpressJS</h2>
 
+<!--Project1 : QR Code Generator-->
+<details>
+    <summary>QR Code Generator</summary>
+    <h4>Project Title: Button Maker</h4>
+    <h4>Project description:</h4><p>QR Code Generator project utilizes Node.js and several npm packages to create a simple command-line application that prompts the user to input a URL. It then generates a QR code image based on the provided URL and saves both the URL and the QR code image to separate files.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/QR-Code-Generator.git"> Click ME !</a</h4>
+</details> 
 
 <h2>Responsive Web Aplications</h2>
 
