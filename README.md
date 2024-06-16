@@ -46,8 +46,7 @@
 <hr>
 </br></br></br>
 <h2> Dynamic Web Applications </h2>
-<details>
-    
+
 <!--Project1 : To-Do List-->
 <details>
     <summary>To-Do List</summary>
@@ -102,7 +101,6 @@
     <h4>Live Demo : <a href="https://luckybhure-buttonmaker.netlify.app"> Click ME !</a></h4>
 </details> 
 
-</details>
 
 <hr>
 </br></br></br>
