@@ -102,10 +102,19 @@
 <!--Project1 : QR Code Generator-->
 <details>
     <summary>QR Code Generator</summary>
-    <h4>Project Title: Button Maker</h4>
+    <h4>Project Title: QR Code Generator</h4>
     <h4>Project description:</h4><p>QR Code Generator project utilizes Node.js and several npm packages to create a simple command-line application that prompts the user to input a URL. It then generates a QR code image based on the provided URL and saves both the URL and the QR code image to separate files.</p>
     <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/QR-Code-Generator.git"> Click ME !</a</h4>
 </details> 
+
+<!--Project2 : CURD Operation with MySQLWorkbench-->
+<details>
+    <summary>CURD Operation with MySQLWorkbench</summary>
+    <h4>Project Title: CURD Operation with MySQLWorkbench</h4>
+    <h4>Project description:</h4><p>A simple user management system built with Node.js, Express, MySQL, and EJS templates. This application allows users to be added, edited, deleted, and displayed from a MySQL database.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/CURD-Operation-with-MySQLWorkbench.git"> Click ME !</a</h4>
+</details> 
+
 
 <h2>Responsive Web Aplications</h2>
 
