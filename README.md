@@ -141,6 +141,6 @@
     <summary>Todo_React</summary>
     <h4>Project Title: Todo_React</h4>
     <h4>Project description:</h4><p>Todo_React is a simple, functional React Todo application. Users can add, check off, and delete tasks, with the added feature of a live date and time display. The app uses localStorage to persist todos, ensuring tasks remain even after refreshing the page.</p>
-    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Todo_React.git" target="_blank"> Click ME !</a</h4>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Todo_React.git"> Click ME !</a</h4>
     <h4>Live Demo : <a href="https://todo-react-luckybhure.vercel.app/"> Click ME !</a></h4>
 </details>
