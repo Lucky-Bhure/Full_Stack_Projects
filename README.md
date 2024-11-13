@@ -39,7 +39,7 @@
     <h3>Live Demo :<a href="https://emojigame1.netlify.app/">Click Me !</a></h3>
   </details> -->
 
-<h2> Dynamic Web Applications </h2>
+<h2> Web Applications with HTML,CSS and JavaScript</h2>
 
 <!--Project1 : To-Do List-->
 <details>
@@ -135,4 +135,12 @@
     <h4>Live Demo : <a href="https://luckybhure-tindog-bootstrap.netlify.app"> Click ME !</a></h4>
 </details> 
 
-<h2>Static Website</h2>
+<h2>Web Application with ReactJs</h2>
+<!--Project1 : Todo_React-->
+<details>
+    <summary>Todo_React</summary>
+    <h4>Project Title: Todo_React</h4>
+    <h4>Project description:</h4><p>Todo_React is a simple, functional React Todo application. Users can add, check off, and delete tasks, with the added feature of a live date and time display. The app uses localStorage to persist todos, ensuring tasks remain even after refreshing the page.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Todo_React.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://todo-react-luckybhure.vercel.app/"> Click ME !</a></h4>
+</details>
