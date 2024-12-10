@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lucky Bhure </h1>
 <h3 align="center">Full Stack Developer </h3>
 
-- 🌱 I’m currently learning **MERN Specializarion** 
+- 🌱 I’m currently learning **MERN Stack Specialization** 
 - 🔭 I’m currently working on **ReactJS**
 
 
