@@ -114,6 +114,15 @@
     <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/CURD-Operation-with-MySQLWorkbench.git"> Click ME !</a</h4>
 </details> 
 
+<!--Project3 : CURD Operation with axios -->
+<details>
+    <summary>CURD Operation with axios</summary>
+    <h4>Project Title: CURD Operation with axios</h4>
+    <h4>Project description:</h4><p>CURD Operation with Axios project demonstrates CRUD (Create, Read, Update, Delete) operations using Axios with the JSONPlaceholder API.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/CURD-Operation-with-axios.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://curd-operation-with-axios.vercel.app" target="_blank"> Click ME !</a></h4>
+</details> 
+
 
 <h2>Responsive Web Aplications</h2>
 
