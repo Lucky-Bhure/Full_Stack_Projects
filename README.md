@@ -169,5 +169,5 @@
     <h4>Project Title: CountryAtlas</h4>
     <h4>Project description:</h4><p>A Pokémon Card Static Website is a fast, simple webpage showcasing Pokémon cards with a gallery layout and key details like name, type, and abilities. It may include search and filter options for easy browsing by Pokémon name.</p>
     <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Pokemon-Card.git"> Click ME !</a</h4>
-    <h4>Live Demo : <a href="https://pokemon-card-luckybhure.vercel.app/"> Click ME !</a></h4>
+    <h4>Live Demo : <a href="https://pokemon-card-luckybhure.vercel.app/" target="_blank"> Click ME !</a></h4>
 </details>
