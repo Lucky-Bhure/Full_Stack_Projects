@@ -153,3 +153,21 @@
     <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Todo_React.git"> Click ME !</a</h4>
     <h4>Live Demo : <a href="https://todo-react-luckybhure.vercel.app/"> Click ME !</a></h4>
 </details>
+
+<!--Project2 : CountryAtlas-->
+<details>
+    <summary>CountryAtlas</summary>
+    <h4>Project Title: CountryAtlas</h4>
+    <h4>Project description:</h4><p>CountryAtlas is a web application that provides information about various countries using modern web technologies such as React, Vite, and Axios. The application is designed for speed, responsiveness, and scalability, making it ideal for educational, travel, or general informational purposes.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/CountryAtlas.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://countryatlas-luckybhure.vercel.app/"> Click ME !</a></h4>
+</details>
+
+<!--Project3 : Pokemon-Card-->
+<details>
+    <summary>CountryAtlas</summary>
+    <h4>Project Title: CountryAtlas</h4>
+    <h4>Project description:</h4><p>A Pokémon Card Static Website is a fast, simple webpage showcasing Pokémon cards with a gallery layout and key details like name, type, and abilities. It may include search and filter options for easy browsing by Pokémon name.</p>
+    <h4>Source Code Git Hub : <a href="https://github.com/Lucky-Bhure/Pokemon-Card.git"> Click ME !</a</h4>
+    <h4>Live Demo : <a href="https://pokemon-card-luckybhure.vercel.app/"> Click ME !</a></h4>
+</details>
